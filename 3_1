@@ -1,0 +1,10 @@
+#Пользователь вводит предложение, заменить все пробелы на "-" 2-мя
+#способами
+
+sentence = input('Введите предложение: ')
+words = "-".join(sentence.split())
+print(words)
+
+sentence = input('Введите предложение: ')
+words = (sentence.replace(' ', '-'))
+print(words)
