@@ -9,7 +9,7 @@ def norm(lst: list) -> str:
     for i in range(len(lst) // 2):
         if lst[i] != lst[-i - 1]:
             print("Список не симметричный")
-            return
+            return lst
     else:
         print("Список симметричный")
         return lst
