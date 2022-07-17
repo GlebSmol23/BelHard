@@ -1,0 +1,29 @@
+{
+"users": [
+  {
+    "birthDate": "1998-02-11",
+    "firstName": "Иван",
+    "id": "Norm",
+    "inn": "8710000001",
+    "lastName": "Иванов",
+    "middleName": "Иванович",
+    "oms": "",
+    "passport": "4400111222",
+    "snils": "",
+    "type": "VERIFIED"
+  },
+  {
+    "birthDate": "1996-03-18",
+    "firstName": "Пётр",
+    "id": 79111234567,
+    "inn": "7710000001",
+    "lastName": "Петров",
+    "middleName": "Петрович",
+    "oms": "",
+    "passport": "1122333000",
+    "snils": "",
+    "type": "VERIFIED"
+  }
+]
+}
+
